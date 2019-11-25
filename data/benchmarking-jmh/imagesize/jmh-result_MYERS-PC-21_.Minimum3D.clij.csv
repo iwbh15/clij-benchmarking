@@ -1,0 +1,15 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit","Param: radius","Param: size"
+"net.haesleinhuepf.clij.benchmark.jmh.Minimum3D.clij","ss",1,100,1955048.000000,131190.277169,"ns/op",2,0
+"net.haesleinhuepf.clij.benchmark.jmh.Minimum3D.clij","ss",1,100,23350995.000000,56726.764060,"ns/op",2,1
+"net.haesleinhuepf.clij.benchmark.jmh.Minimum3D.clij","ss",1,100,45262464.000000,71705.578528,"ns/op",2,2
+"net.haesleinhuepf.clij.benchmark.jmh.Minimum3D.clij","ss",1,100,67103027.000000,74186.231261,"ns/op",2,3
+"net.haesleinhuepf.clij.benchmark.jmh.Minimum3D.clij","ss",1,100,89251700.000000,148197.367619,"ns/op",2,4
+"net.haesleinhuepf.clij.benchmark.jmh.Minimum3D.clij","ss",1,100,111496315.000000,181945.253256,"ns/op",2,5
+"net.haesleinhuepf.clij.benchmark.jmh.Minimum3D.clij","ss",1,100,136379744.000000,284211.153263,"ns/op",2,6
+"net.haesleinhuepf.clij.benchmark.jmh.Minimum3D.clij","ss",1,100,188038785.000000,506713.540095,"ns/op",2,7
+"net.haesleinhuepf.clij.benchmark.jmh.Minimum3D.clij","ss",1,100,238957420.000000,718993.493593,"ns/op",2,8
+"net.haesleinhuepf.clij.benchmark.jmh.Minimum3D.clij","ss",1,100,302352755.000000,956208.911480,"ns/op",2,9
+"net.haesleinhuepf.clij.benchmark.jmh.Minimum3D.clij","ss",1,100,396207916.000000,1254589.952960,"ns/op",2,10
+"net.haesleinhuepf.clij.benchmark.jmh.Minimum3D.clij","ss",1,100,491629345.000000,1686741.886584,"ns/op",2,11
+"net.haesleinhuepf.clij.benchmark.jmh.Minimum3D.clij","ss",1,100,622438984.000000,1970766.985454,"ns/op",2,12
+"net.haesleinhuepf.clij.benchmark.jmh.Minimum3D.clij","ss",1,100,800951151.000000,3389577.296059,"ns/op",2,13

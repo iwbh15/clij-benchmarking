@@ -1,0 +1,15 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit","Param: size"
+"net.haesleinhuepf.clij.benchmark.jmh.Erode3D.vib","ss",1,100,26442.200000,5679.379003,"ns/op",0
+"net.haesleinhuepf.clij.benchmark.jmh.Erode3D.vib","ss",1,100,4555974.540000,486329.808202,"ns/op",1
+"net.haesleinhuepf.clij.benchmark.jmh.Erode3D.vib","ss",1,100,7972423.940000,1038002.388183,"ns/op",2
+"net.haesleinhuepf.clij.benchmark.jmh.Erode3D.vib","ss",1,100,11921748.840000,1298383.451232,"ns/op",3
+"net.haesleinhuepf.clij.benchmark.jmh.Erode3D.vib","ss",1,100,15445814.310000,1169901.588516,"ns/op",4
+"net.haesleinhuepf.clij.benchmark.jmh.Erode3D.vib","ss",1,100,19969378.850000,1844710.251435,"ns/op",5
+"net.haesleinhuepf.clij.benchmark.jmh.Erode3D.vib","ss",1,100,24808225.870000,2994541.503017,"ns/op",6
+"net.haesleinhuepf.clij.benchmark.jmh.Erode3D.vib","ss",1,100,33473429.520000,3977576.235072,"ns/op",7
+"net.haesleinhuepf.clij.benchmark.jmh.Erode3D.vib","ss",1,100,42960422.320000,5193718.279322,"ns/op",8
+"net.haesleinhuepf.clij.benchmark.jmh.Erode3D.vib","ss",1,100,52085993.260000,4309522.184448,"ns/op",9
+"net.haesleinhuepf.clij.benchmark.jmh.Erode3D.vib","ss",1,100,73863605.380000,9649943.638601,"ns/op",10
+"net.haesleinhuepf.clij.benchmark.jmh.Erode3D.vib","ss",1,100,82530783.580000,3758467.076136,"ns/op",11
+"net.haesleinhuepf.clij.benchmark.jmh.Erode3D.vib","ss",1,100,107947736.420000,11731698.265689,"ns/op",12
+"net.haesleinhuepf.clij.benchmark.jmh.Erode3D.vib","ss",1,100,147583738.780000,15592168.451532,"ns/op",13

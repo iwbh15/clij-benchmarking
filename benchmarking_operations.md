@@ -1,4 +1,13 @@
 # Benchmarking CLIJ operations versus ImageJ/Fiji operations
+
+
+---
+
+__Note: This page is outdated. We changed the benchmarking to use JMH. See [here](https://clij.github.io/clij-benchmarking/benchmarking_operations_jmh) for the new benchmarking report. This page is just kept for allowing reproducing our results from the first BioRxiv preprint version of the paper.__
+
+---
+
+
 In order to measure performance differences between ImageJ and CLIJ operations, we conducted benchmarking experiments.
 
 ## Benchmarking operations
@@ -84,6 +93,8 @@ We assume that the algorithms implemented exploit multi-threading for higher per
 If you want to contribute to this project, feel free to clone the repository, [execute the benchmarks](http://clij.github.io/clij-benchmarking/benchmark_your_system) and file a pull request with your measurements! Also, please specify your CPU and GPU hardware when filing the PR.
 
 [Back to CLIJ documentation](https://clij.github.io/)
+
+[Imprint](https://clij.github.io/imprint)
 
 
 
